@@ -1,0 +1,21 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.two {
+    background-color: pink;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    color: white;
+    background-color: red;
+    outline: none;
+}
